@@ -1,10 +1,7 @@
-Low-Rank Adaptation of Large Language Models with Zeroth-Order Block Coordinate Descent
+Unlocking-LoRA-s-Capabilities-for-Fine-tuning-Large-Language-Models-with-Only-Forward-Pass
 ====================================================
 
-
-
-This is the implementation for the paper **"Low-Rank Adaptation of Large Language Models with Zeroth-Order Block Coordinate Descent
-"**.
+Official implementation of the paper submitted to ICASSP2026: Unlocking LoRA's Capabilities for Fine-tuning Large Language Models with Only Forward Pass
 
 
 ## 1) Overview
